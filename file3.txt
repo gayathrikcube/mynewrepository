@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 hey welcome...
+=======
+hello world...welcome
+>>>>>>> my_new_branch

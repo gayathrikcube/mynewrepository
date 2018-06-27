@@ -1,1 +1,1 @@
-this file contains the info about the project and other details
+this file contains the info about the project and other details. now going to be commited.

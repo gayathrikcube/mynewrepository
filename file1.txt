@@ -1,2 +1,3 @@
 This is file1..now going to be committed...
-helloo...edited in remote master branch
+helloo...edited in remote master branch..
+now edited in local master

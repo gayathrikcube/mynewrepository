@@ -1,0 +1,1 @@
+this file contains the info about the project and other details

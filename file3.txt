@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-helloo
-=======
-helloo
+
 hey welcome...
->>>>>>> brach1
